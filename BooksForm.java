@@ -58,7 +58,7 @@ public class BooksForm extends JFrame {
 		
 		JLabel lblCallNo = new JLabel("Call No:");
 		
-		JLabel lblName = new JLabel("Name:");
+		JLabel lblName = new JLabel("Book Name:");
 		
 		JLabel lblAuthor = new JLabel("Author:");
 		
